@@ -11,7 +11,9 @@ smbus
 ___
 
 **USAGE:**
+
 $chmod +x ./dimmer.py
+
 $./dimmer.py channel_num dimming_value
 
 **Example**
