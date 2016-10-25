@@ -8,7 +8,7 @@ for Banana Pro board, may also work with Raspberry Pi
 
 
 ___
-** LightWare lamp management system ;) **
+**LightWare** lamp management system ;)
 
 
 ![alt text][img_lightware]
