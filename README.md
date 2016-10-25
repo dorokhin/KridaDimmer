@@ -1,10 +1,14 @@
 # KridaDimmer
-![alt text][img_dimmer]
+
 Simple python software for manipulate 4 channel i2c Krida Electronics dimmer
 for Banana Pro board, may also work with Raspberry Pi
 
+
+![alt text][img_dimmer]
+
+
 ___
-**LightWare lamp management system ;) **
+** LightWare lamp management system ;) **
 
 
 ![alt text][img_lightware]
