@@ -59,3 +59,4 @@ if __name__ == "__main__":
 
     dim = KridaDimmer(channel_number=args.channel, level=args.value)
     dim.write_byte()
+
