@@ -36,3 +36,9 @@ $./dimmer.py channel_num dimming_value
 [img_dimmer]: https://github.com/andrewnsk/KridaDimmer/blob/master/img/dimmer.jpg?raw=true "Krida dimmer"
 
 [img_lightware]: https://github.com/andrewnsk/KridaDimmer/blob/master/img/lightware.jpg?raw=true "lightware"
+
+
+
+
+**Copyright (c) 2016 Andrew Dorokhin **
+**MIT License**
