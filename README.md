@@ -40,5 +40,6 @@ $./dimmer.py channel_num dimming_value
 
 
 
-**Copyright (c) 2016 Andrew Dorokhin **
+**Copyright (c) 2016 Andrew Dorokhin
+
 **MIT License**
