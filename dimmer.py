@@ -7,7 +7,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND
 
 The MIT License (MIT)
 Copyright (c) 2016 Andrew Dorokhin
-github.com/andrewnsk
+github.com/dorokhin
 
 REQUIRE:
 smbus
